@@ -1,0 +1,8 @@
+E:\C# Projects\frm_Add_Employee_Details_3\frm_Add_Employee_Details_3\obj\x86\Debug\frm_Add_Employee_Details_3.frm_home_page_MDI.resources
+E:\C# Projects\frm_Add_Employee_Details_3\frm_Add_Employee_Details_3\obj\x86\Debug\frm_Add_Employee_Details_3.Frm_Login_Page.resources
+E:\C# Projects\frm_Add_Employee_Details_3\frm_Add_Employee_Details_3\obj\x86\Debug\frm_Add_Employee_Details_3.Properties.Resources.resources
+E:\C# Projects\frm_Add_Employee_Details_3\frm_Add_Employee_Details_3\obj\x86\Debug\frm_Add_Employee_Details_3.csproj.GenerateResource.Cache
+E:\C# Projects\frm_Add_Employee_Details_3\frm_Add_Employee_Details_3\bin\Debug\frm_Add_Employee_Details_3.exe
+E:\C# Projects\frm_Add_Employee_Details_3\frm_Add_Employee_Details_3\bin\Debug\frm_Add_Employee_Details_3.pdb
+E:\C# Projects\frm_Add_Employee_Details_3\frm_Add_Employee_Details_3\obj\x86\Debug\frm_Add_Employee_Details_3.exe
+E:\C# Projects\frm_Add_Employee_Details_3\frm_Add_Employee_Details_3\obj\x86\Debug\frm_Add_Employee_Details_3.pdb
