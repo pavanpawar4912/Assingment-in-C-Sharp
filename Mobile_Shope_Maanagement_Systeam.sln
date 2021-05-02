@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobile_Shope_Maanagement_Systeam", "Mobile_Shope_Maanagement_Systeam\Mobile_Shope_Maanagement_Systeam.csproj", "{32491DFF-CCAF-438A-9A5A-61FF7358FD18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32491DFF-CCAF-438A-9A5A-61FF7358FD18}.Debug|x86.ActiveCfg = Debug|x86
+		{32491DFF-CCAF-438A-9A5A-61FF7358FD18}.Debug|x86.Build.0 = Debug|x86
+		{32491DFF-CCAF-438A-9A5A-61FF7358FD18}.Release|x86.ActiveCfg = Release|x86
+		{32491DFF-CCAF-438A-9A5A-61FF7358FD18}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
